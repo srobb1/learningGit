@@ -1,5 +1,4 @@
-# learningGit
-Just some stuff to practice using Github
+# learning GitHub
 
 
 Here is a [link](https://guides.github.com/activities/hello-world/) to a github tutorial
